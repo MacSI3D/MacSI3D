@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mac@SI3D
 - 👀 I’m interested in converting existing programs on Windows and Mac to iOS and MacOS
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on #2 abive
+- 💞️ I’m looking to collaborate on #2 above
 - 📫 How to reach me --> help@sciencein3d.com
 
 <!---
