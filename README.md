@@ -2,7 +2,7 @@
 - 👀 I’m interested in converting existing programs on Windows and Mac to iOS and MacOS
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on #2 abive
-- 📫 How to reach me mac.smith.usa@gmail.com or help@sciencein3d.com
+- 📫 How to reach me --> help@sciencein3d.com
 
 <!---
 MacSI3D/MacSI3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
